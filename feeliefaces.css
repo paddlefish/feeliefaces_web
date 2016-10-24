@@ -107,6 +107,7 @@ body {
   display: inline-block;
   max-width: 20vw;
   width: 120px;
+  margin-top: 20px;
 }
 
 .sticker {
