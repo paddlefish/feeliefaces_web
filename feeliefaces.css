@@ -73,6 +73,16 @@ body {
   margin-top: 1.5rem;
 }
 
+.marketing p {
+  font-size: 1.5rem;
+  text-align: center;
+}
+@media screen and (min-width: 48em) {
+  .marketing p {
+    font-size: 2rem;
+  }
+}
+
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 48em) {
   /* Remove the padding we set earlier */
@@ -89,5 +99,19 @@ body {
   /* Remove the bottom border on the jumbotron for visual effect */
   .jumbotron {
     border-bottom: 0;
+    margin: auto;
   }
+}
+
+.sticker img {
+  display: inline-block;
+  max-width: 20vw;
+  width: 120px;
+}
+
+.sticker {
+  text-align: center;
+}
+
+.sticker > div {
 }
