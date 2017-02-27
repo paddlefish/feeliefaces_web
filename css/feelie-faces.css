@@ -1,6 +1,9 @@
+@font-face {
+  font-family: Diogenes;
+  src: url(../Diogenes.woff);
+}
 * {
-  font-family: 'Diogenes';
-  src: url('../Diogenes.ttf');
+  font-family: Diogenes;
 }
 a:link, a:visited {
   text-decoration: none;
@@ -22,6 +25,7 @@ a.text-link {
   background-origin: border-box;
   padding: 1.2em 2em 2.5em 2em;
   text-align: center;
+  top: 6em;
 }
 h1 {
   text-align: center;
@@ -278,7 +282,7 @@ h2 {
   overflow-y: hidden;
   white-space: nowrap;
   text-align: center;
-  padding: 17px;
+  padding: 17px 5em 17px 5em;
 }
 .scrolly-polly img {
   max-height: 20em;
