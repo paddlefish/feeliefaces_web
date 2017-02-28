@@ -90,23 +90,23 @@ h2.speech-bubble {
   z-index: 99;
   background-image: url(../img/99Cents.jpg);
   background-repeat: no-repeat;
-  background-size: 240px 240px;
-  width: 240px;
+  background-size: 120px 120px;
+  width: 120px;
   height: 240px;
   margin: -120px;
   right: -23em;
-  top: -90px;
+  top: -10px;
 }
 .pointy-painter {
   position: relative;
   z-index: 99;
   background-image: url(../img/point.jpg);
-  background-size: 203px 160px;
   background-repeat: no-repeat;
-  width: 203px;
-  height: 160px;
-  margin: -80px;
-  right: -8em;
+  background-size: 101px 80px;
+  width: 101px;
+  height: 80px;
+  margin: -40px;
+  right: -2em;
   top: 50px;
 }
 .painter {
@@ -358,5 +358,21 @@ p {
   }
   .family-footer {
     background-size: 24em;
+  }
+  .easel {
+    background-size: 240px 240px;
+    width: 240px;
+    height: 240px;
+    margin: -120px;
+    right: -23em;
+    top: -90px;
+  }
+  .pointy-painter {
+    background-size: 203px 160px;
+    width: 203px;
+    height: 160px;
+    margin: -80px;
+    right: -8em;
+    top: 50px;
   }
 }
