@@ -375,4 +375,10 @@ p {
     right: -8em;
     top: 50px;
   }
+  .stone-border {
+    border-image-slice: fill 66;
+    border-image-width: 33px;
+    padding: 40;
+    border-image-repeat: round;
+  }
 }
