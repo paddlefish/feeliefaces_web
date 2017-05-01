@@ -1,0 +1,35 @@
+{
+    "sticker-packs": [
+        {
+            "app-store-identifier": "1153332237",
+            "author": "Becka Rahn",
+            "author-contact": "@beckarahn",
+            "background-color": "#b3fff3",
+            "foreground-color": "#b3fff3",
+            "identifier": "ILoveYarn",
+            "secondary-color": "#b5f0ff",
+            "title": "I Love Yarn"
+        },
+        {
+            "app-store-identifier": "1153434476", 
+            "author": "Becka Rahn", 
+            "author-contact": "@beckarahn", 
+            "background-color": "#F2F9F7", 
+            "foreground-color": "#EC8F7A", 
+            "identifier": "BlackKitty",
+            "secondary-color": "#b5f0ff", 
+            "title": "Black Kitty"
+        },
+        {
+            "app-store-identifier": "1153439883", 
+            "author": "Becka Rahn", 
+            "author-contact": "@beckarahn", 
+            "background-color": "#415AB2", 
+            "foreground-color": "#ffffff", 
+            "identifier": "SewItUp",
+            "secondary-color": "#b5f0ff", 
+            "title": "Sew It Up"
+        }
+    ]
+}
+
