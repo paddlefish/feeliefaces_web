@@ -245,6 +245,16 @@ h2.speech-bubble {
   height: 12em;
   margin: auto;
 }
+.appicon {
+  text-align: center;
+  background-image: url(../img/AppIcon.png);
+  border-radius: 25px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 12em 12em;
+  height: 12em;
+  margin: auto;
+}
 .redbubble {
   text-align: center;
   background-image: url(../img/redbubble.jpg);
